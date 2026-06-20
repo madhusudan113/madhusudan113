@@ -93,92 +93,6 @@ Aspiring Data Engineer and Database Developer passionate about designing scalabl
 
 
 
----
-
-
-
-
-# 🚀 Projects
-
-
-
-## 🤖 AI Interview Database System
-
-
-
-
-
-
-### Description:
-
-A database-driven AI interview management system designed to manage candidate information, automate evaluation processes, and generate analytical insights.
-
-
-
-
-🔗 Project Link:
-
-https://github.com/madhusudan
-
-
-
----
-
-
-
-## 🚆 Smart Railway Ticket Optimization Engine
-
-
-
-
-
-
-
-### Description:
-
-A smart database solution designed to analyze railway booking data and optimize ticket management processes.
-
-Features:
-
- 
-
-
-🔗 Project Link:
-
-https://github.com/project2
-
-
-
----
-
-
-
-## 💳 Fraud Detection System for Digital Payments
-
-
-
-
-
-
-
-### Description:
-
-A database-based fraud detection system that analyzes digital payment transactions and identifies suspicious activities using SQL-based rules.
-
-
-
-
-🔗 Project Link:
-
-https://github.com/project3
-
-
-
-
-
-
-
-
 
 
 
@@ -196,11 +110,11 @@ https://github.com/project3
 
 
 
-💼 LinkedIn:madhusudan
+💼 LinkedIn: https://madhusudan/linkedin.com
 
 
 
-🌍 Portfolio: https://www.protfolion.com
+🌍 Portfolio: https://madhusudan113.vercel.app/
 
 
 
